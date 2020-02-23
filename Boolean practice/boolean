@@ -1,0 +1,22 @@
+		
+		String myString = "test";
+		if (myString == "test") {
+			System.out.println("You have a test");
+		} else 
+		{
+			System.out.println("Enjoy your weekend");
+		}
+		
+		
+		for (int i = 0; i < 3; i++) {
+			System.out.println(i + " is less than 3");
+		}
+			
+		int i = 0; 
+		while (i <3)
+		{
+			System.out.println(i + " is less than 3");
+			i = i + 1; 
+		}
+			
+		
